@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate software engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
