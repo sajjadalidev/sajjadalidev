@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Khub](https://khub.biz/about.html)
 
-- 🌱 I’m currently learning **ExpressJs,MongoDB React Native,GraphQl**
+- 🌱 I’m currently learning **ExpressJs,MongoDB React Native,GraphQl, OpenAI, ML**
 
 - 👨‍💻 All of my projects are available at [https://sajjadalidev.netlify.app](https://sajjadalidev.netlify.app)
 
