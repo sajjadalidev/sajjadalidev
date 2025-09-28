@@ -12,17 +12,19 @@
 
 - 💼 **3+ Years Experience** building production-ready applications with modern JavaScript technologies
 
+- ✍️ **Technical Writer** sharing insights on [https://medium.com/@sajjadalidev](https://medium.com/@sajjadalidev)
+
 - 💡 **Expert in** **JavaScript, React.js, Next.js, AWS, Node.js, TypeScript**
 
 - 📧 **Professional Contact** **iamsajjadali.dev@gmail.com**
 
-- 🎯 **Career Highlights** and achievements at [https://sajjadalidev.netlify.app](https://sajjadalidev.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sajjadalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadalidev" height="30" width="40" /></a>
+<a href="mailto:iamsajjadali.dev@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sajjadalidev" height="30" width="40" /></a>
 <a href="https://dev.to/sajjadalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sajjadalidev" height="30" width="40" /></a>
 <a href="https://twitter.com/sajjadalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjadalidev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajjadalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjadalidev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:14630400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:14630400" height="30" width="40" /></a>
 <a href="https://fb.com/sajjadalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadalidev" height="30" width="40" /></a>
 <a href="https://instagram.com/sajjadalidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjadalidev" height="30" width="40" /></a>
