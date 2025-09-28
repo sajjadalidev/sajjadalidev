@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ali</h1>
-<h3 align="center">Senior Software Engineer with 3+ Years Experience | Full-Stack Developer from Pakistan</h3>
+<h3 align="center">Senior Software Engineer with 3+ Years Experience | Full-Stack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadalidev&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadalidev" /> </p>
