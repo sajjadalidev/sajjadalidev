@@ -12,10 +12,6 @@
 
 - 💼 **3+ Years Experience** building production-ready applications with modern JavaScript technologies
 
-- 👨‍💻 **Portfolio & Case Studies** available at [https://sajjadalidev.netlify.app](https://sajjadalidev.netlify.app)
-
-- ✍️ **Technical Writer** sharing insights on [https://medium.com/@sajjadalidev](https://medium.com/@sajjadalidev)
-
 - 💡 **Expert in** **JavaScript, React.js, Next.js, AWS, Node.js, TypeScript**
 
 - 📧 **Professional Contact** **iamsajjadali.dev@gmail.com**
